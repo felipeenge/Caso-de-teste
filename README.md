@@ -39,12 +39,13 @@ Ajuda a garantir a cobertura completa dos testes.
 
 Vejamos um exemplo de cenário de teste em uma página de cadastro de usuário:
 
-![Cenário de testes cadastro usuário)](https://github.com/felipeenge/Teste-de-software/assets/121561336/694158c4-3648-42e1-8c0c-487cd398819a)
+![Cenário-de-teste](https://github.com/felipeenge/Caso-de-teste/assets/121561336/57ab32a9-f06d-4ec2-b4fa-7469a32bbcb1)
+
 Fonte: https://front.serverest.dev/cadastrarusuarios
 
 Exemplo de cenário de teste na página de login que fui utilizada acima:
 
-![Cenário de testes](https://github.com/felipeenge/Teste-de-software/assets/121561336/df797b5b-f11d-4033-93da-ece19d7850f5)
+![Cenário de testes cadastro usuário](https://github.com/felipeenge/Caso-de-teste/assets/121561336/118ef965-f107-4894-a686-0bd855119a4a)
 
 
 # Diferenças entre Caso de teste e Cenário de teste:
@@ -96,5 +97,5 @@ Ex: Uma melhoria na UI, uma alteração na fonte, mover uma imagem ou texto de u
 
 **Vejamos um exemplo abaixo:**
 
-![bug report](https://github.com/felipeenge/Teste-de-software/assets/121561336/c7de0cf4-1a1d-4d36-9569-0aac36fe869a)
+![bug report (1)](https://github.com/felipeenge/Caso-de-teste/assets/121561336/6d5336fd-69ea-4ebe-9045-412ee6a3bd86)
 
